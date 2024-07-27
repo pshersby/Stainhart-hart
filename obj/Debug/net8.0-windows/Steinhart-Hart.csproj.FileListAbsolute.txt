@@ -1,0 +1,17 @@
+X:\Steinhart-Hart\bin\Debug\net8.0-windows\Steinhart-Hart.exe
+X:\Steinhart-Hart\bin\Debug\net8.0-windows\Steinhart-Hart.deps.json
+X:\Steinhart-Hart\bin\Debug\net8.0-windows\Steinhart-Hart.runtimeconfig.json
+X:\Steinhart-Hart\bin\Debug\net8.0-windows\Steinhart-Hart.dll
+X:\Steinhart-Hart\bin\Debug\net8.0-windows\Steinhart-Hart.pdb
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart_Hart.AddDialog.resources
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart_Hart.TempView.resources
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.csproj.GenerateResource.cache
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.GeneratedMSBuildEditorConfig.editorconfig
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.AssemblyInfoInputs.cache
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.AssemblyInfo.cs
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.csproj.CoreCompileInputs.cache
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.dll
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\refint\Steinhart-Hart.dll
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.pdb
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\Steinhart-Hart.genruntimeconfig.cache
+X:\Steinhart-Hart\obj\Debug\net8.0-windows\ref\Steinhart-Hart.dll
